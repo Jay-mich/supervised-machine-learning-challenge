@@ -1,11 +1,13 @@
 # supervised-machine-learning-challenge
 
 Background:
+
 Lending services companies allow individual investors to partially fund personal loans as well as buy and sell notes backing the loans on a secondary market.
 
 You will be using this data to create machine learning models to classify the risk level of given loans. Specifically, you will be comparing the Logistic Regression model and Random Forest Classifier.
 
-Predict Model Performance
+Predict Model Performance:
+
 You will be creating and comparing two models on this data: a Logistic Regression, and a Random Forests Classifier. Before you create, fit, and score the models, make a prediction as to which model you think will perform better. You do not need to be correct!
 
 Write down your prediction in the designated cells in your Jupyter Notebook, and provide justification for your educated guess.
